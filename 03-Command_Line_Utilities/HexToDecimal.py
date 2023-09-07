@@ -8,7 +8,7 @@
 #   representation (not case sensitve)
 #
 # Command line inputs:
-#   1 - Number of flights in building (int)
+#   1 - Hex value to be converted to decimal value (int)
 #
 # Example use:
 #   python HexToDecimal.py 7e4
