@@ -6,6 +6,7 @@
 - Lab 3: [Command Line Utilities](LabInstructions/CSCI135FundamentalsOfCS2023-09-06_08-Assignment03-CmdLineUtilities.pdf)
 - Lab 4: [Conditionals](LabInstructions/CSCI135FundamentalsOfCS2023-09-13_15-Assignment04-Conditionals.pdf)
 - Lab 5: [Strings and Loops](LabInstructions/CSCI135FundamentalsOfCS2023-09-20_22-Assignment05-TextLoops.pdf)
+- Lab 6: [Lists](LabInstructions/CSCI135FundamentalsOfCS2023-09-27_29-Assignment06-Lists.pdf)
 
 ## Lab Solutions:
 - Lab 1 - Hello Python! Hello World:
@@ -29,3 +30,7 @@
  
 - Lab 5 - Strings and Loops:
   - [PickTeams.py](05-Strings_and_Loops/PickTeams.py)
+
+- Lab 6 - Lists:
+  - [Password.py](06-Lists/Password.py)
+  - [Matrix.py](06-Lists/Matrix.py)
