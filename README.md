@@ -7,6 +7,7 @@
 - Lab 4: [Conditionals](LabInstructions/CSCI135FundamentalsOfCS2023-09-13_15-Assignment04-Conditionals.pdf)
 - Lab 5: [Strings and Loops](LabInstructions/CSCI135FundamentalsOfCS2023-09-20_22-Assignment05-TextLoops.pdf)
 - Lab 6: [Lists](LabInstructions/CSCI135FundamentalsOfCS2023-09-27_29-Assignment06-Lists.pdf)
+- Lab 7: [Dictionaries](LabInstructions/CSCI135FundamentalsOfCS2023-10-04_06-Assignment08-Dictionaries.pdf)
 
 ## Lab Solutions:
 - Lab 1 - Hello Python! Hello World:
@@ -34,3 +35,6 @@
 - Lab 6 - Lists:
   - [Password.py](06-Lists/Password.py)
   - [Matrix.py](06-Lists/Matrix.py)
+ 
+- Lab 7 - Dictionaries
+  - [ToPirate.py](07-Dictionaries/ToPirate.py)
