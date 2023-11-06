@@ -10,6 +10,7 @@
 - Lab 7: [Dictionaries](LabInstructions/CSCI135FundamentalsOfCS2023-10-04_06-Assignment08-Dictionaries.pdf)
 - Lab 8: [Functions](LabInstructions/CSCI135FundamentalsOfCS2023-10-25_27-Assignment09-Functions.pdf)
 - Lab 9: [Exceptional Fractions](LabInstructions/CSCI135FundamentalsOfCS2023-11-01_03-Assignment10-ExceptionalFractions.pdf)
+- Lab 10: [Classy Fractions](LabInstructions/CSCI135FundamentalsOfCS2023-11-08_10-Assignment11-ClassyFractions.pdf)
 
 ## Lab Solutions:
 - Lab 1 - Hello Python! Hello World:
@@ -47,3 +48,6 @@
 - Lab 9 - Exceptional Fractions:
   - [ExceptionalFractions.py](09-Exceptional_Fractions/ExceptionalFractions.py)
   - [TestExceptionalFractions.py](09-Exceptional_Fractions/TestExceptionalFractions.py)
+
+- Lab 10 - Classy Fractions:
+  - [ClassyFraction.py](10-Classy_Fractions/ClassyFraction.py)
