@@ -11,6 +11,7 @@
 - Lab 8: [Functions](LabInstructions/CSCI135FundamentalsOfCS2023-10-25_27-Assignment09-Functions.pdf)
 - Lab 9: [Exceptional Fractions](LabInstructions/CSCI135FundamentalsOfCS2023-11-01_03-Assignment10-ExceptionalFractions.pdf)
 - Lab 10: [Classy Fractions](LabInstructions/CSCI135FundamentalsOfCS2023-11-08_10-Assignment11-ClassyFractions.pdf)
+- Lab 11: [TKinter Kalculator](LabInstructions/CSCI135FundamentalsOfCS2023-11-22_24-Assignment12-TKinterTKalculator.pdf)
 
 ## Lab Solutions:
 - Lab 1 - Hello Python! Hello World:
@@ -51,3 +52,7 @@
 
 - Lab 10 - Classy Fractions:
   - [ClassyFraction.py](10-Classy_Fractions/ClassyFraction.py)
+
+- Lab 11 - TKinter Kalculator:
+  - [FractionCalculator.py](11-TKinter_Kalculator/FractionCalculator.py)
+  - [ExceptionalFractions.py](11-TKinter_Kalculator/ExceptionalFractions.py)
